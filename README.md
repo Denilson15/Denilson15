@@ -15,9 +15,9 @@ I'm a computer science student, high school CS teacher, and aspiring software/AI
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C++, JavaScript, HTML, CSS
-- **Tools**: GitHub, VS Code, Netlify, Vite
-- **Learning**: React, Firebase, Linux (UNIX), Assembly (CS21)
+- **Languages**: C++, JavaScript, HTML, CSS, React
+- **Tools**: GitHub, VS Code, Netlify, Vite, Visual Studio
+- **Learning**: React, Firebase, Linux (UNIX), Assembly
 
 ---
 
