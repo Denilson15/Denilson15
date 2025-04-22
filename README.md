@@ -32,7 +32,7 @@ I'm a computer science student, high school CS teacher, and aspiring software/AI
 
 ## 🔗 Let's Connect
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com) *(Add your real link here)*
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com) *www.linkedin.com/in/gary-alvarado-858467290*
 - 🧠 [My Teaching Projects](https://github.com/Denilson15?tab=repositories)
 - 📬 Open to collaboration, feedback, or advice!
 
