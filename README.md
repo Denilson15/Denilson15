@@ -1,55 +1,48 @@
 # 👋 Hi, I'm Gary Denilson Alvarado  
 
-I began my computer science journey in **Summer 2024**, completing my first course in C++. Just a month later, I stepped into teaching **AP Computer Science Principles** at the high school level. By the end of the year, **My students earned college credit in computer science**, even as I continued building my own foundation in the field.  
+I began my computer science journey in **Summer 2024** after pivoting from a background in Business. This transition has been driven by a deep commitment to problem-solving and a passion for engineering. Just months after my first C++ course, I stepped into teaching **AP Computer Science Principles**, helping my students earn college credit while I solidified my own technical foundation.
 
-Since then, I’ve rapidly expanded my knowledge in **C++**, **JavaScript**, **React**, and **functional programming with OCaml**, while completing core CS and math coursework including:
-- Data Structures & Algorithms
-- OOP
-- Databases/SQL
-- Programming Language Concepts
-- Automata & Computation
-- Discrete Math
+I am currently a **Conditionally Classified Graduate Student** pursuing a **Master’s in Computer Science** with a focus on **AI/ML**.
 
 ---
 
 ## 💻 What I'm Working On  
 
-- Building frontend projects with React, HTML, CSS, JavaScript and exploring APIs  
-- Strengthening my C++ and JavaScript skills through assignments, demos, and personal projects  
-- Experimenting with **AI-based projects** by integrating APIs (e.g., language models, data-driven applications)  
-- Learning backend fundamentals and preparing for advanced CS coursework  
-- Documenting all projects with detailed READMEs  
+* **Full-Stack Development**: Completing the Scrimba Career Path with a focus on React and REST APIs.
+* **Master’s Preparation**: Finalizing prerequisites with a focus on systems-level programming and algorithmic correctness.
+* **AI Integration**: Experimenting with language model APIs and data-driven applications.
+* **Teaching**: Leveraging my experience as an instructor to simplify and document complex technical concepts.
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Languages**: C++, JavaScript, HTML, CSS, React, OCaml, SQL  
-- **Tools**: GitHub, VS Code, Netlify, Vite, Visual Studio  
-- **Learning**: React, Firebase, Linux (UNIX), Assembly  
+* **Languages**: C++, JavaScript, HTML, CSS, OCaml (Functional Programming), SQL, Assembly.
+* **Frameworks/Libraries**: React, Vite, Express (Learning).
+* **Tools**: Git, GitHub, Linux (UNIX), VS Code, Netlify.
 
 ---
 
 ## 🌱 My CS Journey  
 
-I originally earned my **bachelor’s degree in Business**, but in **Summer 2024** I began formally studying computer science. In just over a year, I’ve gone from completing my first intro course to teaching AP CS Principles and finishing a wide range of CS fundamentals.  
+Since 2024, I have focused on mastering CS fundamentals. My experience ranges from building a functional interpreter in OCaml to managing memory in Assembly and Operating Systems.
 
-This fall (2025), I’m enrolled in:  
-- Operating Systems  
-- Intro to UNIX  
-- Intro to Assembly  
-- Statistics for Engineers  
+### Current & Upcoming Coursework (Spring 2026 @ CSUEB)
+* Analysis of Algorithms
+* Computer Architecture
+* AI Engineering
+* Software Engineering
 
-I’m on track to finish my **associate’s in CS** while completing master’s prerequisites, and I’ve already been admitted to a **Master’s in Computer Science (AI/ML)** program.  
-
-Along the way, I’ve pushed myself to learn **React** and build projects with **API integrations**, available here on my GitHub.  
-
-Even though I’m new to the field, I’ve shown the ability to **learn quickly, understand fundamentals deeply, and apply them effectively**.  
+### Recently Completed
+* Operating Systems and Computer Organization and Assembly Language Programming 
+* Programming Language Concepts (OCaml)
+* Discrete Math and Statistics for Engineers
 
 ---
 
 ## 🔗 Let's Connect  
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com) *www.linkedin.com/in/gary-alvarado-858467290*  
-- 🧠 [My Projects](https://github.com/Denilson15?tab=repositories)  
-- 📬 Open to collaboration, feedback, or advice!  
+* 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/gary-alvarado-858467290)
+* 🧠 [My GitHub Projects](https://github.com/Denilson15?tab=repositories)
+* 🎲 [Featured Project: Tenzies React Game](https://tenziesdicegamereact.netlify.app/)
+* 📬 Open to collaboration, technical feedback, or advice!
