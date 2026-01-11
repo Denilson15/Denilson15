@@ -9,7 +9,7 @@ I am currently completing advanced prerequisites and **actively seeking admissio
 ## 💻 What I'm Working On  
 
 * **Full-Stack Development**: Completing the Scrimba Career Path with a focus on React, REST APIs, and modern UI/UX.
-* **Graduate Preparation**: Mastering systems-level programming and advanced algorithmic theory to prepare for rigorous MEng coursework.
+* **Graduate Preparation**: Mastering systems-level programming and advanced algorithmic theory to prepare for rigorous graduate level coursework.
 * **AI Integration**: Experimenting with language model APIs and data-driven application architecture.
 * **Teaching**: Leveraging my experience as an instructor to simplify and document complex technical concepts.
 
