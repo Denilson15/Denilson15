@@ -19,7 +19,7 @@ I am currently completing advanced prerequisites and **actively seeking admissio
 
 * **Languages**: C++, JavaScript, HTML, CSS, OCaml (Functional Programming), SQL, Assembly.
 * **Frameworks/Libraries**: React, Vite, Express (Learning).
-* **Tools**: Git, GitHub, Linux (UNIX), VS Code, Netlify.
+* **Tools**: Git, GitHub, Artificial Intelligence (Claude, ChatGPT, Gemini) Linux (UNIX), VS Code, Netlify.
 
 ---
 
