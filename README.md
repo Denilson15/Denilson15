@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Gary Denilson Alvarado  
 
-I began my computer science journey in **Summer 2024** after pivoting from a background in Business. This transition has been driven by a deep commitment to problem-solving and a passion for engineering. Just months after my first C++ course, I stepped into teaching **AP Computer Science Principles**, helping my students earn college credit while I solidified my own technical foundation.
+I began my computer science journey in **Summer 2024** after pivoting from a background in Business. This transition is driven by a deep commitment to technical excellence and a passion for engineering. Just months after my first C++ course, I stepped into teaching **AP Computer Science Principles**, helping my students earn college credit while I solidified my own engineering foundation.
 
-I am currently a **Conditionally Classified Graduate Student** pursuing a **Master’s in Computer Science** with a focus on **AI/ML**.
+I am currently completing advanced prerequisites and **actively seeking admission into a Master's in Computer Science / MEng program**, with a primary focus on top-tier institutions like **UC Berkeley** and **UC Irvine**.
 
 ---
 
 ## 💻 What I'm Working On  
 
-* **Full-Stack Development**: Completing the Scrimba Career Path with a focus on React and REST APIs.
-* **Master’s Preparation**: Finalizing prerequisites with a focus on systems-level programming and algorithmic correctness.
-* **AI Integration**: Experimenting with language model APIs and data-driven applications.
+* **Full-Stack Development**: Completing the Scrimba Career Path with a focus on React, REST APIs, and modern UI/UX.
+* **Graduate Preparation**: Mastering systems-level programming and advanced algorithmic theory to prepare for rigorous MEng coursework.
+* **AI Integration**: Experimenting with language model APIs and data-driven application architecture.
 * **Teaching**: Leveraging my experience as an instructor to simplify and document complex technical concepts.
 
 ---
@@ -34,7 +34,9 @@ Since 2024, I have focused on mastering CS fundamentals. My experience ranges fr
 * Software Engineering
 
 ### Recently Completed
-* Operating Systems and Computer Organization and Assembly Language Programming 
+* Operating Systems and Intro to UNIX
+* Data Structures
+* Computer Organization and Assembly Language Programming 
 * Programming Language Concepts (OCaml)
 * Discrete Math and Statistics for Engineers
 
@@ -45,4 +47,4 @@ Since 2024, I have focused on mastering CS fundamentals. My experience ranges fr
 * 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/gary-alvarado-858467290)
 * 🧠 [My GitHub Projects](https://github.com/Denilson15?tab=repositories)
 * 🎲 [Featured Project: Tenzies React Game](https://tenziesdicegamereact.netlify.app/)
-* 📬 Open to collaboration, technical feedback, or advice!
+* 📬 Open to collaboration, technical feedback, or grad-school networking!
