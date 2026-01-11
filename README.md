@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gary Denilson Alvarado  
 
-I began my computer science journey in **Summer 2024**, completing my first course in C++. Just a month later, I stepped into teaching **AP Computer Science Principles** at the high school level. By the end of the year, **14 of my students had earned college credit in computer science**, even as I continued building my own foundation in the field.  
+I began my computer science journey in **Summer 2024**, completing my first course in C++. Just a month later, I stepped into teaching **AP Computer Science Principles** at the high school level. By the end of the year, **My students earned college credit in computer science**, even as I continued building my own foundation in the field.  
 
 Since then, I’ve rapidly expanded my knowledge in **C++**, **JavaScript**, **React**, and **functional programming with OCaml**, while completing core CS and math coursework including:
 - Data Structures & Algorithms
