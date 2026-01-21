@@ -2,7 +2,7 @@
 
 I began my computer science journey in **Summer 2024** after pivoting from a background in Business. This transition is driven by a deep commitment to technical excellence and a passion for engineering. Just months after my first C++ course, I stepped into teaching **AP Computer Science Principles**, helping my students earn college credit while I solidified my own engineering foundation.
 
-I am currently completing advanced prerequisites and **actively seeking admission into a Master's in Computer Science / MEng program**, with a primary focus on top-tier institutions like **UC Berkeley** and **UC Irvine**.
+I am currently completing advanced prerequisites and **actively seeking admission into a Master's in Computer Science / MEng program**, with a primary focus on top-tier institutions.
 
 ---
 
