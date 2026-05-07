@@ -2,7 +2,7 @@
 
 I began my computer science journey in **Summer 2024** after pivoting from a background in Business. This transition is driven by a deep commitment to technical excellence and a passion for engineering. Just months after my first C++ course, I stepped into teaching **AP Computer Science Principles**, helping my students earn college credit while I solidified my own engineering foundation.
 
-I am currently completing advanced prerequisites and **actively seeking admission into a Master's in Computer Science / MEng program**, with a primary focus on top-tier institutions.
+I am currently completing advanced prerequisites and **actively seeking admission into a Master's in Computer Science**.
 
 ---
 
@@ -17,9 +17,9 @@ I am currently completing advanced prerequisites and **actively seeking admissio
 
 ## 🛠️ Tech Stack  
 
-* **Languages**: C++, JavaScript, HTML, CSS, OCaml (Functional Programming), SQL, Assembly.
+* **Programming**: C++, Java, JavaScript, HTML, CSS, OCaml (Functional Programming), SQL, Assembly.
 * **Frameworks/Libraries**: React, Vite, Express (Learning).
-* **Tools**: Git, GitHub, Artificial Intelligence (Claude, ChatGPT, Gemini) Linux (UNIX), VS Code, Netlify.
+* **Tools**: Git, GitHub, Generative Artificial Intelligence, Linux (UNIX), VS Code, Netlify.
 
 ---
 
